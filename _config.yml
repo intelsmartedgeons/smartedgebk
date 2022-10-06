@@ -10,7 +10,7 @@ description:
 lang:               en
 
 # Site subpath, e.g. /blog
-baseurl:            "smartedgebk"
+baseurl:            "/smartedgebk"
 
 
 # apiURL: "https://www.openness.org"
